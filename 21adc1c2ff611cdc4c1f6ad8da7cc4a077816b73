@@ -16,6 +16,23 @@
       "message": "Merged upstreamed",
       "revId": "21adc1c2ff611cdc4c1f6ad8da7cc4a077816b73",
       "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a22b5c9f_4b850587",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2023-01-06T07:28:15Z",
+      "side": 1,
+      "message": "NOT",
+      "revId": "21adc1c2ff611cdc4c1f6ad8da7cc4a077816b73",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
     }
   ]
 }
